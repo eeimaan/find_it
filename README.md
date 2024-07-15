@@ -11,6 +11,10 @@ This app is designed to help users locate their lost items quickly and efficient
 - **Advanced Filters**: Search filters allow users to narrow down results based on various criteria, such as location, category, and date.
 - **Real-time Updates**: Users receive real-time updates on lost items, ensuring they have the latest information.
 - **Direct Communication**: Guests can connect directly with the company to arrange the retrieval of their lost items.
+![image_original](https://github.com/user-attachments/assets/d8cf04db-62ae-4d76-90c7-e818072d7462)
+
+
+
 
 ## Technologies Used
 - **Flutter**: A cross-platform framework for building mobile applications.
